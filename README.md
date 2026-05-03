@@ -1,1 +1,0 @@
-# AI-Powered-Gesture-Controlled-Smart-Home-System
