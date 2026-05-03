@@ -5,7 +5,6 @@
 ![Python](https://img.shields.io/badge/Python-3.8+-blue)
 ![Platform](https://img.shields.io/badge/Platform-ESP32-red)
 ![Library](https://img.shields.io/badge/AI-MediaPipe-green)
-![Cost](https://img.shields.io/badge/Cost-Rs.800--1200-yellow)
 
 ---
 
