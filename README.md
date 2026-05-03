@@ -127,10 +127,9 @@ AI-Gesture-Smart-Home/
 
 ## 👨‍💻 Authors
 
-- **Manas Krishna Neigapula** — Reg. No. 24BEC10104
-- **Priyam Prakash** — Reg. No. 24BEC10139
+- **Manas Krishna Neigapula**
+- **Priyam Prakash** 
 
-**Guide:** Prof. S.P. Manikandan, Teaching Fellow  
 **Institution:** VIT Bhopal University, School of Electrical & Electronics Engineering  
 **Academic Year:** 2025-2026
 
